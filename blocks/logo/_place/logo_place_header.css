@@ -1,0 +1,6 @@
+/*TODO вынести позиционирование в родительский блок, т.к. это не задача модификатора*/
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+}

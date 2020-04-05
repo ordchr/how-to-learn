@@ -9,16 +9,17 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/*.header {*/
-  /*border: 1px solid red;*/
+.header {
+  border: 1px solid red;
 
-/*}*/
-/*div {*/
-  /*border: 1px solid green;*/
+}
 
+/*div, p, h1, h2, h3, h4, h5, h6 {*/
+  /*border: 3px solid blue;*/
 /*}*/
 
-/*.header__title {*/
-  /*border: 1px solid blue;*/
-/*}*/
+.header__title {
+  border: 1px solid blue;
+}
+
 

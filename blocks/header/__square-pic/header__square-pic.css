@@ -1,3 +1,8 @@
+@keyframes rotate__square-pic {
+  100% {
+    transform: rotate(345deg);
+  }
+}
 
 .header__square-pic {
   width: 568px;
@@ -6,6 +11,7 @@
   right: 0;
   background-color: #2f80ed;
   position: absolute;
-
+  transform: rotate(-15deg);
+  animation: rotate__square-pic 20s linear infinite;
 }
 

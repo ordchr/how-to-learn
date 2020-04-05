@@ -1,0 +1,10 @@
+@import url(./__item/video-ted__item.css);
+
+.video-ted {
+  width: 1050px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 50px;
+  z-index: 1;
+}

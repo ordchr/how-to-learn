@@ -1,0 +1,9 @@
+.video-ted__item {
+  margin-right: 20px;
+  width: 515px;
+  height: 316px;
+}
+
+.video-ted__item:last-of-type {
+  margin-right: 0;
+}

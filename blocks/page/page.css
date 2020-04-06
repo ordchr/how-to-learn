@@ -10,17 +10,18 @@
     overflow: hidden;
 }
 
-.header {
-  border: 1px solid red;
+ /*Отладка*/
+/*.header {*/
+  /*border: 1px solid red;*/
 
-}
-
-/*div, p, h1, h2, h3, h4, h5, h6 {*/
-  /*border: 3px solid blue;*/
 /*}*/
 
-.header__title {
-  border: 1px solid blue;
-}
+/*div, p, h1, h2, h3, h4, h5, h6 {*/
+  /*border: 1px solid blue;*/
+/*}*/
+
+/*.header__title {*/
+  /*border: 1px solid blue;*/
+/*}*/
 
 

@@ -1,9 +1,11 @@
-.video-ted__item {
+.video__iframe {
   margin-right: 20px;
   width: 515px;
   height: 316px;
+  border: none;
 }
 
-.video-ted__item:last-of-type {
+.video__iframe:last-of-type {
   margin-right: 0;
 }
+

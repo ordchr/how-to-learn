@@ -11,6 +11,7 @@
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/table/table.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/feinman/feinman.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/technics/technics.css);
@@ -18,3 +19,4 @@
 @import url(../blocks/video-ted/video-ted.css);
 @import url(../blocks/history/history.css);
 @import url(../blocks/khan/khan.css);
+@import url(../blocks/resources/resources.css);

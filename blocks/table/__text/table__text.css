@@ -5,3 +5,7 @@
   margin: 0;
 
 }
+
+.table__text:nth-child(3) {
+  margin: 20px 0 0;
+}

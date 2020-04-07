@@ -1,0 +1,11 @@
+@import url(./_figure/rotation_figure_square-pic.css);
+
+@keyframes rotation-base {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: rotation-base 20s linear infinite;
+}

@@ -1,0 +1,9 @@
+@keyframes rotation-square-pic {
+  100% {
+    transform: rotate(345deg);
+  }
+}
+
+.rotation.rotation_figure_square-pic {
+  animation: rotation-square-pic 20s linear infinite;
+}
